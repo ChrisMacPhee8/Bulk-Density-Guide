@@ -1,0 +1,5193 @@
+<div class="alphabet-select-box">
+
+<a class="pick-box local-scroll-link" href="#a">a</a>
+<a class="pick-box local-scroll-link" href="#b">b</a>
+<a class="pick-box local-scroll-link" href="#c">c</a>
+<a class="pick-box local-scroll-link" href="#d">d</a>
+<a class="pick-box local-scroll-link" href="#e">e</a>
+<a class="pick-box local-scroll-link" href="#f">f</a>
+<a class="pick-box local-scroll-link" href="#g">g</a>
+<a class="pick-box local-scroll-link" href="#h">h</a>
+<a class="pick-box local-scroll-link" href="#i">i</a>
+<a class="pick-box local-scroll-link" href="#j">j</a>
+<a class="pick-box local-scroll-link" href="#k">k</a>
+<a class="pick-box local-scroll-link" href="#l">l</a>
+<a class="pick-box local-scroll-link" href="#m">m</a>
+<a class="pick-box local-scroll-link" href="#n">n</a>
+<a class="pick-box local-scroll-link" href="#o">o</a>
+<a class="pick-box local-scroll-link" href="#p">p</a>
+<a class="pick-box local-scroll-link" href="#q">q</a>
+<a class="pick-box local-scroll-link" href="#r">r</a>
+<a class="pick-box local-scroll-link" href="#s">s</a>
+<a class="pick-box local-scroll-link" href="#t">t</a>
+<a class="pick-box local-scroll-link" href="#u">u</a>
+<a class="pick-box local-scroll-link" href="#v">v</a>
+<a class="pick-box local-scroll-link" href="#w">w</a>
+<a class="pick-box" href="#x">x</a>
+<a class="pick-box local-scroll-link" href="#y">y</a>
+<a class="pick-box local-scroll-link" href="#z">z</a>
+<div style="clear: both;"></div>
+</div>
+
+
+
+<table class="densityTable">
+<tbody>
+<tr class="row-item">
+    <th><h4>Bulk Material</h4></th>
+    <th colspan="2"><h4>Bulk Density</h4></th>
+</tr>
+
+<tr class="row-item">
+<th></th>
+<th>lb/ft<sup>3</sup></th>
+<th>g/cm<sup>3</sup></th>
+</tr>
+
+<tr class="row-item">
+<td id="a" class="name">AC Teat Dust</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Accelerator</td>
+<td>31</td>
+<td>0.5</td>
+</tr>
+<tr class="row-item">
+<td class="name">Acetate</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Acetate Flakes</td>
+<td>21</td>
+<td>0.34</td>
+</tr>
+<tr class="row-item">
+<td class="name">Acini Pepe</td>
+<td>53.6</td>
+<td>0.86</td>
+</tr>
+<tr class="row-item">
+<td class="name">Acrawax</td>
+<td>15</td>
+<td>0.24</td>
+</tr>
+<tr class="row-item">
+<td class="name">Acrawax &amp; Carbon Black</td>
+<td>34</td>
+<td>0.54</td>
+</tr>
+<tr class="row-item">
+<td class="name">Acrawax C</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Acrylic Concentrate Pellets, 1/8"</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Acrylic Fibers</td>
+<td>9</td>
+<td>0.14</td>
+</tr>
+<tr class="row-item">
+<td class="name">Acrylic Pellets, 1/8"</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Acrylic Resin, Powder</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Activated Aluminum</td>
+<td>15</td>
+<td>0.24</td>
+</tr>
+<tr class="row-item">
+<td class="name">Activated Carbon</td>
+<td>20</td>
+<td>0.32</td>
+</tr>
+<tr class="row-item">
+<td class="name">Adipic Acid</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aero-Cil</td>
+<td>8</td>
+<td>0.13</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alcanol</td>
+<td>39</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alfalfa Leaf Meal</td>
+<td>14.5</td>
+<td>0.23</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alfalfa Meal, Dehyd., 13%</td>
+<td>16-18</td>
+<td>0.26-0.29</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alfalfa Meal, Dehyd., 17%</td>
+<td>18-22</td>
+<td>0.29-0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alfalfa Meal, Fine Ground</td>
+<td>15-22</td>
+<td>0.24-0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alfalfa Meal, Suncured, 13%</td>
+<td>14</td>
+<td>0.22</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alfalfa Pellets, 13%</td>
+<td>41-43</td>
+<td>0.66-0.69</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alfalfa Pellets, 17%</td>
+<td>41-43</td>
+<td>0.66-0.69</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alfalfa Seed</td>
+<td>45-48</td>
+<td>0.72-0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alfalfa Stem Meal</td>
+<td>12</td>
+<td>0.19</td>
+</tr>
+<tr class="row-item">
+<td class="name">Almonds</td>
+<td>29</td>
+<td>0.46</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alodine 12005</td>
+<td>79</td>
+<td>1.27</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alodine No. 41</td>
+<td>92</td>
+<td>1.47</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alum</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alum/Pigment Mix</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alumina</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alumina &amp; Lime Mix</td>
+<td>65</td>
+<td>1.04</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alumina Hydrate</td>
+<td>68</td>
+<td>1.09</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alumina Powder</td>
+<td>18</td>
+<td>0.29</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alumina Precipitator Dust</td>
+<td>54</td>
+<td>0.86</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alumina, Activated</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alumina, Alcan</td>
+<td>46</td>
+<td>0.74</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alumina, Calcined</td>
+<td>63</td>
+<td>1.01</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alumina, Corhart</td>
+<td>83</td>
+<td>1.33</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alumina, FAH-KDH</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alumina, Kyanite</td>
+<td>77</td>
+<td>1.23</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alumina, Metal Grade</td>
+<td>67</td>
+<td>1.07</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alumina, Reacted</td>
+<td>65</td>
+<td>1.04</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alumina, Sandy</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Alumina, Tabular Dust</td>
+<td>21</td>
+<td>0.34</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Benzoate</td>
+<td>11</td>
+<td>0.18</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Chloride</td>
+<td>51</td>
+<td>0.82</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Chlorohydrate</td>
+<td>55</td>
+<td>0.88</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Dross</td>
+<td>81</td>
+<td>1.3</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Etchant</td>
+<td>55</td>
+<td>0.88</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Filament 200X</td>
+<td>75</td>
+<td>1.2</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Flakes</td>
+<td>150</td>
+<td>2.4</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Fluoride</td>
+<td>55</td>
+<td>0.88</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Hydroxide</td>
+<td>25.6</td>
+<td>0.41</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Magnesium Silicate</td>
+<td>21</td>
+<td>0.34</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Oxide</td>
+<td>80</td>
+<td>1.28</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Oxide, Calcined</td>
+<td>33</td>
+<td>0.53</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Powder</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Silicate</td>
+<td>33</td>
+<td>0.53</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Silicate, Catalyst</td>
+<td>53</td>
+<td>0.85</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Sulfate</td>
+<td>65</td>
+<td>1.04</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Sulfate, Ground</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Trihydrate</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aluminum Wire, Chopped</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ammonium Bromide</td>
+<td>76</td>
+<td>1.22</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ammonium Chloride</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ammonium Nitrate</td>
+<td>49</td>
+<td>0.78</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ammonium Nitrate, Prills</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ammonium Perchlorate</td>
+<td>62</td>
+<td>0.99</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ammonium Phosphate</td>
+<td>55</td>
+<td>0.88</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ammonium Sulfate</td>
+<td>69</td>
+<td>1.11</td>
+</tr>
+<tr class="row-item">
+<td class="name">Amorphous Silica</td>
+<td>11</td>
+<td>0.18</td>
+</tr>
+<tr class="row-item">
+<td class="name">Anthracite Powder</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Antimony Oxide</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Antioxidant Granules</td>
+<td>41</td>
+<td>0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Antioxidant Powder</td>
+<td>28</td>
+<td>0.45</td>
+</tr>
+<tr class="row-item">
+<td class="name">Apple Slices, Dry</td>
+<td>15</td>
+<td>0.24</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aqua Nuchar</td>
+<td>10</td>
+<td>0.16</td>
+</tr>
+<tr class="row-item">
+<td class="name">Aquafloc</td>
+<td>10</td>
+<td>0.16</td>
+</tr>
+<tr class="row-item">
+<td class="name">Arasan</td>
+<td>25</td>
+<td>0.4</td>
+</tr>
+<tr class="row-item">
+<td class="name">Arsenic Trioxide</td>
+<td>41</td>
+<td>0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Asbestos</td>
+<td>22</td>
+<td>0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Asbestos Fiber</td>
+<td>20</td>
+<td>0.32</td>
+</tr>
+<tr class="row-item">
+<td class="name">Asbestos Fiber, Long</td>
+<td>16</td>
+<td>0.26</td>
+</tr>
+<tr class="row-item">
+<td class="name">Asbestos Fiber, Short</td>
+<td>19</td>
+<td>0.3</td>
+</tr>
+<tr class="row-item">
+<td class="name">Asbestos Powder</td>
+<td></td>
+<td>28</td>
+</tr>
+<tr class="row-item">
+<td class="name">Asbestos Shorts</td>
+<td></td>
+<td>26</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ascorbic Acid, Coarse</td>
+<td></td>
+<td>45</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ascorbic Acid, Fine</td>
+<td></td>
+<td>32</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ash, Ground</td>
+<td>105</td>
+<td>1.68</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ashes, Dry, Loose</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ashes, Wet, Loose</td>
+<td>47</td>
+<td>0.75</td>
+</tr>
+<tr class="row-item">
+<td class="name">Atrazine (Herbicide)</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Attapulgite</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Attasorb</td>
+<td>18</td>
+<td>0.29</td>
+</tr>
+<tr class="row-item">
+<td class="name">Atticote</td>
+<td>22</td>
+<td>0.35</td>
+</tr>
+<tr class="row-item">
+<td id="b" class="name">Baking Powder</td>
+<td>56</td>
+<td>0.9</td>
+</tr>
+<tr class="row-item">
+<td class="name">Barbasco Root</td>
+<td>33</td>
+<td>0.53</td>
+</tr>
+<tr class="row-item">
+<td class="name">Barite</td>
+<td>120</td>
+<td>1.92</td>
+</tr>
+<tr class="row-item">
+<td class="name">Barium Carbonate</td>
+<td>55</td>
+<td>0.88</td>
+</tr>
+<tr class="row-item">
+<td class="name">Barium Oxide</td>
+<td>63</td>
+<td>1.01</td>
+</tr>
+<tr class="row-item">
+<td class="name">Barium Stearate</td>
+<td>13</td>
+<td>0.21</td>
+</tr>
+<tr class="row-item">
+<td class="name">Barium Sulfate</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Barley Meal</td>
+<td>28</td>
+<td>0.45</td>
+</tr>
+<tr class="row-item">
+<td class="name">Barley, Fine Ground</td>
+<td>46</td>
+<td>0.74</td>
+</tr>
+<tr class="row-item">
+<td class="name">Barley, Ground</td>
+<td>24-26</td>
+<td>0.38-0.42</td>
+</tr>
+<tr class="row-item">
+<td class="name">Barley, Malted</td>
+<td>30.5</td>
+<td>0.49</td>
+</tr>
+<tr class="row-item">
+<td class="name">Barley, Rolled</td>
+<td>21-24</td>
+<td>0.34-0.38</td>
+</tr>
+<tr class="row-item">
+<td class="name">Barley, Scoured</td>
+<td>41</td>
+<td>0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Barley, Whole</td>
+<td>38-43</td>
+<td>0.61-0.69</td>
+</tr>
+<tr class="row-item">
+<td class="name">Bauxite</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Beans, White</td>
+<td>43-48</td>
+<td>0.69-0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Beet Pulp</td>
+<td>16-20</td>
+<td>0.26-0.32</td>
+</tr>
+<tr class="row-item">
+<td class="name">Bentonite</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Bentonite, Coarse</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Benzion</td>
+<td>34.4</td>
+<td>0.55</td>
+</tr>
+<tr class="row-item">
+<td class="name">Bicarbonate of Soda</td>
+<td>62</td>
+<td>0.99</td>
+</tr>
+<tr class="row-item">
+<td class="name">Binder 812</td>
+<td>41</td>
+<td>0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Binder Starch</td>
+<td>41</td>
+<td>0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Binder, T-Gel</td>
+<td>31</td>
+<td>0.5</td>
+</tr>
+<tr class="row-item">
+<td class="name">Biscuit Pre-Mix</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Bisphenol</td>
+<td>37</td>
+<td>0.59</td>
+</tr>
+<tr class="row-item">
+<td class="name">Bisphenol Flakes</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Black Coloring</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Bleach Compound</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Blood Flour</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Blood Meal</td>
+<td>38.5</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Bone &amp; Meat Meal, Loose</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Bone Meal, Loose</td>
+<td>50-60</td>
+<td>0.80-0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Bone, Ground</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Bone, Ground, Dry</td>
+<td>75</td>
+<td>1.2</td>
+</tr>
+<tr class="row-item">
+<td class="name">Borax</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Borax Granules</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Borax, Puffed</td>
+<td>12</td>
+<td>0.19</td>
+</tr>
+<tr class="row-item">
+<td class="name">Boric Acid</td>
+<td>54</td>
+<td>0.86</td>
+</tr>
+<tr class="row-item">
+<td class="name">Boric Acid</td>
+<td>63.2</td>
+<td>1.01</td>
+</tr>
+<tr class="row-item">
+<td class="name">Boron Carbide</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Brake Lining Compound</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Bran</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Brass Powder</td>
+<td>100</td>
+<td>1.6</td>
+</tr>
+<tr class="row-item">
+<td class="name">Bread Crumbs</td>
+<td>6</td>
+<td>0.1</td>
+</tr>
+<tr class="row-item">
+<td class="name">Brewers Grains, Dry</td>
+<td>15.5</td>
+<td>0.25</td>
+</tr>
+<tr class="row-item">
+<td class="name">Bromo Seltzer</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Bronze Powder</td>
+<td>78</td>
+<td>1.25</td>
+</tr>
+<tr class="row-item">
+<td class="name">Broom Corn Seed</td>
+<td>41.8</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Brown Gravy Mix</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Brown Whey Powder</td>
+<td>29.6</td>
+<td>0.47</td>
+</tr>
+<tr class="row-item">
+<td class="name">Buckwheat Bran</td>
+<td>15.5</td>
+<td>0.25</td>
+</tr>
+<tr class="row-item">
+<td class="name">Buckwheat Flour</td>
+<td>41</td>
+<td>0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Buckwheat Hulls</td>
+<td>13</td>
+<td>0.21</td>
+</tr>
+<tr class="row-item">
+<td class="name">Buckwheat Middlings</td>
+<td>22</td>
+<td>0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Buckwheat, Whole</td>
+<td>37-41</td>
+<td>0.59-0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Buttermilk, Dry</td>
+<td>31</td>
+<td>0.5</td>
+</tr>
+<tr class="row-item">
+<td id="c" class="name">Cake Mix</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cal. Chloro Fluoro Phosphate</td>
+<td>53</td>
+<td>0.85</td>
+</tr>
+<tr class="row-item">
+<td class="name">Calcium</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Calcium Borate</td>
+<td>61</td>
+<td>0.98</td>
+</tr>
+<tr class="row-item">
+<td class="name">Calcium Carbide, Crushed</td>
+<td>80</td>
+<td>1.28</td>
+</tr>
+<tr class="row-item">
+<td class="name">Calcium Carbonate</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Calcium Chloride</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Calcium Fluoride</td>
+<td>102</td>
+<td>1.63</td>
+</tr>
+<tr class="row-item">
+<td class="name">Calcium Hydroxide</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Calcium Phosphate</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Calcium Silicate</td>
+<td>10</td>
+<td>0.16</td>
+</tr>
+<tr class="row-item">
+<td class="name">Calcium Stearate</td>
+<td>20</td>
+<td>0.32</td>
+</tr>
+<tr class="row-item">
+<td class="name">Calcium Sulfate</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cane Seed</td>
+<td>41</td>
+<td>0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Carbofrax, C-4</td>
+<td>100</td>
+<td>1.6</td>
+</tr>
+<tr class="row-item">
+<td class="name">Carbon Black</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Carbon Black</td>
+<td>24.8</td>
+<td>0.4</td>
+</tr>
+<tr class="row-item">
+<td class="name">Carbon Black &amp; Graphite</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Carbon Black (Nuchar®)</td>
+<td>11</td>
+<td>0.18</td>
+</tr>
+<tr class="row-item">
+<td class="name">Carbon Black Mix</td>
+<td>77</td>
+<td>1.23</td>
+</tr>
+<tr class="row-item">
+<td class="name">Carbon Black, Beads</td>
+<td>19</td>
+<td>0.3</td>
+</tr>
+<tr class="row-item">
+<td class="name">Carbon Black, Pellets</td>
+<td>22</td>
+<td>0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Carbon Dust</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Carbon Flour</td>
+<td>57</td>
+<td>0.91</td>
+</tr>
+<tr class="row-item">
+<td class="name">Carbon Granules</td>
+<td>59</td>
+<td>0.95</td>
+</tr>
+<tr class="row-item">
+<td class="name">Carbon Lampblack</td>
+<td>8</td>
+<td>0.13</td>
+</tr>
+<tr class="row-item">
+<td class="name">Carbon Masterbatch</td>
+<td>41</td>
+<td>0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Carbon Pellets</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Carbon, Activated</td>
+<td>17</td>
+<td>0.27</td>
+</tr>
+<tr class="row-item">
+<td class="name">Carbon, Crystallized</td>
+<td>58</td>
+<td>0.93</td>
+</tr>
+<tr class="row-item">
+<td class="name">Carbon-Teflon Mix</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Casein</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cashews</td>
+<td>31</td>
+<td>0.5</td>
+</tr>
+<tr class="row-item">
+<td class="name">Casting Mix</td>
+<td>150</td>
+<td>2.4</td>
+</tr>
+<tr class="row-item">
+<td class="name">Catalyst Beads</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Catalyst, Synthetic</td>
+<td>39</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Catalyst, Zeolitic</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Caustic Potash Beads</td>
+<td>65</td>
+<td>1.04</td>
+</tr>
+<tr class="row-item">
+<td class="name">Caustic Soda</td>
+<td>31</td>
+<td>0.5</td>
+</tr>
+<tr class="row-item">
+<td class="name">Celaflock</td>
+<td>11</td>
+<td>0.18</td>
+</tr>
+<tr class="row-item">
+<td class="name">Celaton FP4</td>
+<td>14</td>
+<td>0.22</td>
+</tr>
+<tr class="row-item">
+<td class="name">Celcon Flakes</td>
+<td>23</td>
+<td>0.37</td>
+</tr>
+<tr class="row-item">
+<td class="name">Celcon Pellets</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Celite</td>
+<td>10</td>
+<td>0.16</td>
+</tr>
+<tr class="row-item">
+<td class="name">Celite 535</td>
+<td>10</td>
+<td>0.16</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cellflo</td>
+<td>12</td>
+<td>0.19</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cellulose Acetate</td>
+<td>10</td>
+<td>0.16</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cellulose Denvative</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cellulose Floc</td>
+<td>22</td>
+<td>0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cellulose Gum</td>
+<td>27</td>
+<td>0.43</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cement</td>
+<td>85</td>
+<td>1.36</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cement Dust</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cement, C-10 Sealing</td>
+<td>56</td>
+<td>0.9</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cement, Portland</td>
+<td>94</td>
+<td>1.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cement, Portland Clinker</td>
+<td>95</td>
+<td>1.52</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cement, Root Canal</td>
+<td>67</td>
+<td>1.07</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cenum Oxide</td>
+<td>62</td>
+<td>0.99</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ceramic Compound</td>
+<td>85</td>
+<td>1.36</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ceramitalc</td>
+<td>54</td>
+<td>0.86</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cereal Mix</td>
+<td>43</td>
+<td>0.69</td>
+</tr>
+<tr class="row-item">
+<td class="name">Charcoal Powder</td>
+<td>24</td>
+<td>0.38</td>
+</tr>
+<tr class="row-item">
+<td class="name">Chemco Burnishing Compound</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Chickory</td>
+<td>34</td>
+<td>0.54</td>
+</tr>
+<tr class="row-item">
+<td class="name">Chickory Powder</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Chili Spice</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Chlorine Compound</td>
+<td>28</td>
+<td>0.45</td>
+</tr>
+<tr class="row-item">
+<td class="name">Chlorine Powder</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Chocolate Drink Mix</td>
+<td>26</td>
+<td>0.42</td>
+</tr>
+<tr class="row-item">
+<td class="name">Chopped Hose (Cheerios®)</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Chromic Acid, Powder</td>
+<td>100</td>
+<td>1.6</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cinders, Blast Furnace</td>
+<td>57</td>
+<td>0.91</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cinders, Coal, Ashes &amp; Clinker</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cinnamon Powder</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Citric Acid</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Citrus Pulp, Dry</td>
+<td>20.5</td>
+<td>0.33</td>
+</tr>
+<tr class="row-item">
+<td class="name">Clay</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Clay &amp; Petro Ag</td>
+<td>55</td>
+<td>0.88</td>
+</tr>
+<tr class="row-item">
+<td class="name">Clay Product</td>
+<td>33</td>
+<td>0.53</td>
+</tr>
+<tr class="row-item">
+<td class="name">Clay, Bentonite</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Clay, Calcined</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Clay, Fine</td>
+<td>62</td>
+<td>0.99</td>
+</tr>
+<tr class="row-item">
+<td class="name">Clay, Fines</td>
+<td>70</td>
+<td>1.12</td>
+</tr>
+<tr class="row-item">
+<td class="name">Clay, Georgia</td>
+<td>65</td>
+<td>1.04</td>
+</tr>
+<tr class="row-item">
+<td class="name">Clay, Granite</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Clay, Helium</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Clay, Kaolin</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Clay, Pure</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Clay, Super White</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Clay, Talc</td>
+<td>52</td>
+<td>0.83</td>
+</tr>
+<tr class="row-item">
+<td class="name">Clay-Talc-Flint</td>
+<td>62</td>
+<td>0.99</td>
+</tr>
+<tr class="row-item">
+<td class="name">Claytone 40</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Claytones ING 400</td>
+<td>28</td>
+<td>0.45</td>
+</tr>
+<tr class="row-item">
+<td class="name">Clearon® Powder</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Clinker Dust</td>
+<td>94</td>
+<td>1.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Clover Seed</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">CMC Powder</td>
+<td>52</td>
+<td>0.83</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coagulant</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coal Anthracity</td>
+<td>55-60</td>
+<td>0.88-0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coal Dust</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coal Granules</td>
+<td>52</td>
+<td>0.83</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coal Powder</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coal Powder, MRD</td>
+<td>41</td>
+<td>0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coal Powder, SRC</td>
+<td>39</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coal, Bituminous</td>
+<td>52</td>
+<td>0.83</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coal, Pulverized</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coal-trol M</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cobalt Carbonate</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cobalt Fines</td>
+<td>256</td>
+<td>4.1</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cobalt Oxide, 10% Moisture</td>
+<td>114</td>
+<td>1.83</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cobalt Sulfate</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cocoa</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cocoa Flavoring</td>
+<td>55</td>
+<td>0.88</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cocoa Puffs Cereal</td>
+<td>10.4</td>
+<td>0.17</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cocoa Shells</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coconut Chips</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coffee Beans, Green</td>
+<td>37-39</td>
+<td>0.59-0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coffee Beans, Roasted</td>
+<td>22-24</td>
+<td>0.35-0.38</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coffee Flavoring</td>
+<td>28</td>
+<td>0.45</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coffee, Instant</td>
+<td>19</td>
+<td>0.3</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coke Breeze</td>
+<td>30-34</td>
+<td>0.48-0.54</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coke Dust</td>
+<td>15</td>
+<td>0.24</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coke Fines</td>
+<td>39</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coke Granules</td>
+<td>52</td>
+<td>0.83</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coke, Average Lump</td>
+<td>28-32</td>
+<td>0.45-0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coke, Calcined, Coarse</td>
+<td>56</td>
+<td>0.9</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coke, Calcined, Fines</td>
+<td>59</td>
+<td>0.95</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coke, Calcined, Intermediate</td>
+<td>59</td>
+<td>0.95</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coke, Petroleum CRS 393</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coke, Petroleum Lump</td>
+<td>40-50</td>
+<td>0.64-0.80</td>
+</tr>
+<tr class="row-item">
+<td class="name">Coke, Pulverized</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Colemanite</td>
+<td>57</td>
+<td>0.91</td>
+</tr>
+<tr class="row-item">
+<td class="name">Colloidal Lime</td>
+<td>49</td>
+<td>0.78</td>
+</tr>
+<tr class="row-item">
+<td class="name">Collupulin</td>
+<td>19</td>
+<td>0.3</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cookie Meal</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Copolymer Beads</td>
+<td>41</td>
+<td>0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Copolymer Flakes</td>
+<td>23</td>
+<td>0.37</td>
+</tr>
+<tr class="row-item">
+<td class="name">Copper Hydroxide</td>
+<td>25</td>
+<td>0.4</td>
+</tr>
+<tr class="row-item">
+<td class="name">Copper Phosphorus, Pellets</td>
+<td>265</td>
+<td>4.24</td>
+</tr>
+<tr class="row-item">
+<td class="name">Copper Sulfate</td>
+<td>52</td>
+<td>0.83</td>
+</tr>
+<tr class="row-item">
+<td class="name">Copper, Fines</td>
+<td>101</td>
+<td>1.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Copper, Flotation</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Copper, Pellets, 1/32"</td>
+<td>240</td>
+<td>3.84</td>
+</tr>
+<tr class="row-item">
+<td class="name">Copra Meal, Loose</td>
+<td>27</td>
+<td>0.43</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cork, Ground</td>
+<td>4-5</td>
+<td>0.06-0.08</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cork, In Bales</td>
+<td>8-9</td>
+<td>0.13-0.14</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cork, Solid</td>
+<td>15</td>
+<td>0.24</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn Bran</td>
+<td>13</td>
+<td>0.21</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn Chops, Coarse</td>
+<td>40-44</td>
+<td>0.64-0.70</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn Chops, Fine</td>
+<td>36-39</td>
+<td>0.58-0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn Chops, Medium</td>
+<td>38-42</td>
+<td>0.61-0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn Cobs</td>
+<td>17</td>
+<td>0.27</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn Distillers Dry Grains</td>
+<td>18.5</td>
+<td>0.3</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn Distillers Dry Solubles</td>
+<td>25.5</td>
+<td>0.41</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn Flour</td>
+<td>51</td>
+<td>0.82</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn Germ Meal</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn Gluten Feed</td>
+<td>26-33</td>
+<td>0.40-0.53</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn Gluten Meal</td>
+<td>32-43</td>
+<td>0.51-0.69</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn Grits</td>
+<td>40-43</td>
+<td>0.64-0.69</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn Mash</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn Meal</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn Oil Meal</td>
+<td>33-36</td>
+<td>0.53-0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn Starch</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn Sugar</td>
+<td>20.5</td>
+<td>0.33</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn, Cracked, Coarse</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn, Ear</td>
+<td>56</td>
+<td>0.9</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn, Ground</td>
+<td>34-36</td>
+<td>0.54-0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn, Hominy Feed</td>
+<td>25-28</td>
+<td>0.40-0.45</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn, Kibbled</td>
+<td>20-22</td>
+<td>0.32-0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Corn, Whole, Shelled</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cottonseed Cake</td>
+<td>40-45</td>
+<td>0.64-0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cottonseed Flour</td>
+<td>56</td>
+<td>0.9</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cottonseed Hulls</td>
+<td>12</td>
+<td>0.19</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cottonseed Meats</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cottonseed, Delinted</td>
+<td>25-35</td>
+<td>0.40-0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cottonseed, w/Lint</td>
+<td>18-25</td>
+<td>0.29-0.40</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cryolite</td>
+<td>86</td>
+<td>1.38</td>
+</tr>
+<tr class="row-item">
+<td class="name">Crystal Flo</td>
+<td>67</td>
+<td>1.07</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cullet, Glass, 3/4"</td>
+<td>80-90</td>
+<td>1.28-1.44</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cullet, Glass, Average</td>
+<td>85-100</td>
+<td>1.36-1.60</td>
+</tr>
+<tr class="row-item">
+<td class="name">Cupric Oxide</td>
+<td>110</td>
+<td>1.76</td>
+</tr>
+<tr class="row-item">
+<td class="name">Curly Wide Noodles</td>
+<td>20</td>
+<td>0.32</td>
+</tr>
+<tr class="row-item">
+<td id="d" class="name">Dacron Flakes</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Dairy Flavoring</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Deflourinated Phosphate</td>
+<td>97</td>
+<td>1.55</td>
+</tr>
+<tr class="row-item">
+<td class="name">Delsan</td>
+<td>27</td>
+<td>0.43</td>
+</tr>
+<tr class="row-item">
+<td class="name">Dental Plaster</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Detergent Flakes</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Detergent Powder</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Dextrose</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Diammonium Phosphate</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Diatomaceous Earth</td>
+<td>16</td>
+<td>0.26</td>
+</tr>
+<tr class="row-item">
+<td class="name">Diatomaceous Earth Product</td>
+<td>14</td>
+<td>0.22</td>
+</tr>
+<tr class="row-item">
+<td class="name">Diatomaceous Earth, Calcined</td>
+<td>10</td>
+<td>0.16</td>
+</tr>
+<tr class="row-item">
+<td class="name">Diatomaceous Earth, Celite</td>
+<td>15</td>
+<td>0.24</td>
+</tr>
+<tr class="row-item">
+<td class="name">Diatomaceous Earth, Dicalite</td>
+<td>11</td>
+<td>0.18</td>
+</tr>
+<tr class="row-item">
+<td class="name">Diatomaceous Earth, Fibra-Flo</td>
+<td>15</td>
+<td>0.24</td>
+</tr>
+<tr class="row-item">
+<td class="name">Diatomaceous Earth, Filtrol</td>
+<td>14</td>
+<td>0.22</td>
+</tr>
+<tr class="row-item">
+<td class="name">Diatomaceous Earth, Microcel</td>
+<td>9-12</td>
+<td>0.14-0.19</td>
+</tr>
+<tr class="row-item">
+<td class="name">Diatomaceous Earth, Perlite</td>
+<td>5</td>
+<td>0.08</td>
+</tr>
+<tr class="row-item">
+<td class="name">Diatomaceous Earth, Supercel</td>
+<td>10</td>
+<td>0.16</td>
+</tr>
+<tr class="row-item">
+<td class="name">Diatomite</td>
+<td>14</td>
+<td>0.22</td>
+</tr>
+<tr class="row-item">
+<td class="name">Dicalite</td>
+<td>12</td>
+<td>0.19</td>
+</tr>
+<tr class="row-item">
+<td class="name">Dielectric Compound</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Distillers Grains</td>
+<td>18</td>
+<td>0.29</td>
+</tr>
+<tr class="row-item">
+<td class="name">Dog Food Blend</td>
+<td>54</td>
+<td>0.86</td>
+</tr>
+<tr class="row-item">
+<td class="name">Dog Food Mixture</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Dolomite</td>
+<td>54</td>
+<td>0.86</td>
+</tr>
+<tr class="row-item">
+<td class="name">Dolomite Lime</td>
+<td>46</td>
+<td>0.74</td>
+</tr>
+<tr class="row-item">
+<td class="name">Donut Mix</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Dough Mix</td>
+<td>37</td>
+<td>0.59</td>
+</tr>
+<tr class="row-item">
+<td class="name">Duramite, Calcium Carb.</td>
+<td>58</td>
+<td>0.93</td>
+</tr>
+<tr class="row-item">
+<td class="name">Dye, Fabric</td>
+<td>25</td>
+<td>0.4</td>
+</tr>
+<tr class="row-item">
+<td class="name">Dye, Food</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td id="e" class="name">Earth, Common Loam, Dry</td>
+<td>73</td>
+<td>1.17</td>
+</tr>
+<tr class="row-item">
+<td class="name">Earth, Common Loam, Moist</td>
+<td>76</td>
+<td>1.22</td>
+</tr>
+<tr class="row-item">
+<td class="name">Egg Yokes, Powdered</td>
+<td>23</td>
+<td>0.37</td>
+</tr>
+<tr class="row-item">
+<td class="name">Eggs, Powdered</td>
+<td>22</td>
+<td>0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Elbow Macaroni</td>
+<td>32.8</td>
+<td>0.53</td>
+</tr>
+<tr class="row-item">
+<td class="name">Electrolyte</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Epoxy Molding, Preblend</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Epoxy Powder</td>
+<td>49</td>
+<td>0.78</td>
+</tr>
+<tr class="row-item">
+<td class="name">Explosive Compound</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Extrude Regrind</td>
+<td>39</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td id="f" class="name">Fanna</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Feldspar</td>
+<td>62</td>
+<td>0.99</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fermate</td>
+<td>15</td>
+<td>0.24</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ferric Chloride</td>
+<td>43</td>
+<td>0.69</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ferric Sulfate</td>
+<td>61</td>
+<td>0.98</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ferro Silicate</td>
+<td>78</td>
+<td>1.25</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ferro Silicon</td>
+<td>87</td>
+<td>1.39</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ferrous Carbonate</td>
+<td>85-90</td>
+<td>1.36-1.44</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fertilizer</td>
+<td>37</td>
+<td>0.59</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fiberglass</td>
+<td>22</td>
+<td>0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fiberglass, 1/2" Chop</td>
+<td>17</td>
+<td>0.27</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fiberglass, 1/4" Chop</td>
+<td>18</td>
+<td>0.29</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fiberglass, 1/8" Chop</td>
+<td>20</td>
+<td>0.32</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fiberglass, Pellet Blend</td>
+<td>22</td>
+<td>0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fiberglass, Powder Blend</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Filter Cake, Centifuge</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Filter-Cel</td>
+<td>9</td>
+<td>0.14</td>
+</tr>
+<tr class="row-item">
+<td class="name">Filtrol</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Filtrol Clay Grade 105</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fine Powder</td>
+<td>127</td>
+<td>2.03</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fire Soot</td>
+<td>64</td>
+<td>1.03</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fireclay</td>
+<td>72</td>
+<td>1.15</td>
+</tr>
+<tr class="row-item">
+<td class="name">Firemate</td>
+<td>24</td>
+<td>0.38</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fish Meal</td>
+<td>30-47</td>
+<td>0.48-0.75</td>
+</tr>
+<tr class="row-item">
+<td class="name">Flame Retardant</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Flaxseed</td>
+<td>43.5</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Flint</td>
+<td>97</td>
+<td>1.55</td>
+</tr>
+<tr class="row-item">
+<td class="name">Floc</td>
+<td>13</td>
+<td>0.21</td>
+</tr>
+<tr class="row-item">
+<td class="name">Floc, Solka</td>
+<td>9</td>
+<td>0.14</td>
+</tr>
+<tr class="row-item">
+<td class="name">Flour</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Flour, Barley</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Flour, Barley Malt</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Flour, Corn</td>
+<td>39</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Flour, Rye</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Flour, Soybean</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Flour, Wheat</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Flue Dust</td>
+<td>54</td>
+<td>0.86</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fluorescent Powder</td>
+<td>68</td>
+<td>1.09</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fluorescent Powder, Moist</td>
+<td>84</td>
+<td>1.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fluoride Compound</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fluorite</td>
+<td>78</td>
+<td>1.25</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fluorspar</td>
+<td>100-125</td>
+<td>1.60-2.00</td>
+</tr>
+<tr class="row-item">
+<td class="name">Flux</td>
+<td>145</td>
+<td>2.32</td>
+</tr>
+<tr class="row-item">
+<td class="name">Flux Fines</td>
+<td>100</td>
+<td>1.6</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fly Ash</td>
+<td>65</td>
+<td>1.04</td>
+</tr>
+<tr class="row-item">
+<td class="name">Food Coloring</td>
+<td>39</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Foundry Additive Mixture</td>
+<td>80</td>
+<td>1.28</td>
+</tr>
+<tr class="row-item">
+<td class="name">Foundry Premix</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Frodex 24</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Frosting Mix</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fuel Additives</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fuel Treatment</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fuller’s Earth</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fuller’s Earth, Rods</td>
+<td>43</td>
+<td>0.69</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fumaric Acid</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Fungicide</td>
+<td>26</td>
+<td>0.42</td>
+</tr>
+<tr class="row-item">
+<td id="g" class="name">Garlic Flakes</td>
+<td>22</td>
+<td>0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Garlic Powder</td>
+<td>20</td>
+<td>0.32</td>
+</tr>
+<tr class="row-item">
+<td class="name">Gelatin</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Geon Resin</td>
+<td>22</td>
+<td>0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Gilsonite Fines</td>
+<td>49</td>
+<td>0.78</td>
+</tr>
+<tr class="row-item">
+<td class="name">Gilsonite resin</td>
+<td>42.4</td>
+<td>0.68</td>
+</tr>
+<tr class="row-item">
+<td class="name">Glass Batch Material</td>
+<td>90-110</td>
+<td>1.44-1.76</td>
+</tr>
+<tr class="row-item">
+<td class="name">Glass Batch, Mix</td>
+<td>87</td>
+<td>1.39</td>
+</tr>
+<tr class="row-item">
+<td class="name">Glass Beads</td>
+<td>100</td>
+<td>1.6</td>
+</tr>
+<tr class="row-item">
+<td class="name">Glass Frit</td>
+<td>144</td>
+<td>2.31</td>
+</tr>
+<tr class="row-item">
+<td class="name">Glass Microspheres</td>
+<td>62</td>
+<td>0.99</td>
+</tr>
+<tr class="row-item">
+<td class="name">Glass Powder</td>
+<td>103</td>
+<td>1.65</td>
+</tr>
+<tr class="row-item">
+<td class="name">Glass, Ground</td>
+<td>103</td>
+<td>1.65</td>
+</tr>
+<tr class="row-item">
+<td class="name">Glitter Flakes</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Glue</td>
+<td>53</td>
+<td>0.85</td>
+</tr>
+<tr class="row-item">
+<td class="name">Glycerine, Green Catalyst</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Gold Powder</td>
+<td>53</td>
+<td>0.85</td>
+</tr>
+<tr class="row-item">
+<td class="name">Goulac</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Graham Cracker Crust</td>
+<td>15</td>
+<td>0.24</td>
+</tr>
+<tr class="row-item">
+<td class="name">Grain</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Granite, Crushed</td>
+<td>97</td>
+<td>1.55</td>
+</tr>
+<tr class="row-item">
+<td class="name">Granodine 663</td>
+<td>68</td>
+<td>1.09</td>
+</tr>
+<tr class="row-item">
+<td class="name">Granular Material</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Granular Powder Coal</td>
+<td>48.8</td>
+<td>0.78</td>
+</tr>
+<tr class="row-item">
+<td class="name">Graphite</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Graphite Flakes</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Graphite Granules</td>
+<td>68</td>
+<td>1.09</td>
+</tr>
+<tr class="row-item">
+<td class="name">Graphite Powder</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Graphite, Pulverized</td>
+<td>22</td>
+<td>0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Graphite, Scrap</td>
+<td>59</td>
+<td>0.95</td>
+</tr>
+<tr class="row-item">
+<td class="name">Grass Seed</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Gravel</td>
+<td>110</td>
+<td>1.76</td>
+</tr>
+<tr class="row-item">
+<td class="name">Green Split Peas</td>
+<td>56.8</td>
+<td>0.91</td>
+</tr>
+<tr class="row-item">
+<td class="name">Grinding Compound</td>
+<td>99</td>
+<td>1.59</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ground Oat Hulls</td>
+<td>34.4</td>
+<td>0.55</td>
+</tr>
+<tr class="row-item">
+<td class="name">Grout</td>
+<td>70</td>
+<td>1.12</td>
+</tr>
+<tr class="row-item">
+<td class="name">Gum, Base</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Gum, Granules</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Gum, Resin</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Gypsum</td>
+<td>54</td>
+<td>0.86</td>
+</tr>
+<tr class="row-item">
+<td class="name">Gypsum Stucco</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Gypsum, Calcined</td>
+<td>55</td>
+<td>0.88</td>
+</tr>
+<tr class="row-item">
+<td class="name">Gypsum, Ground</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td id="h" class="name">Halon</td>
+<td>22</td>
+<td>0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Hampseed</td>
+<td>35.3</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Hash Spice</td>
+<td>66</td>
+<td>1.06</td>
+</tr>
+<tr class="row-item">
+<td class="name">Hazel Nuts, Peanuts, Almonds</td>
+<td>39.2</td>
+<td>0.63</td>
+</tr>
+<tr class="row-item">
+<td class="name">Hell Blue Dye</td>
+<td>19</td>
+<td>0.3</td>
+</tr>
+<tr class="row-item">
+<td class="name">Hexahicel</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Hexa-Melamine</td>
+<td>33</td>
+<td>0.53</td>
+</tr>
+<tr class="row-item">
+<td class="name">Hexamine</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Hexa-Silene</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Hisil</td>
+<td>11</td>
+<td>0.18</td>
+</tr>
+<tr class="row-item">
+<td class="name">Honey Nut Cheerios Cereal</td>
+<td>10.4</td>
+<td>0.17</td>
+</tr>
+<tr class="row-item">
+<td class="name">HydraFlakes</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Hydrocarbon Compound</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Hydrocide</td>
+<td>90</td>
+<td>1.44</td>
+</tr>
+<tr class="row-item">
+<td class="name">Hyvar X, Herbicide</td>
+<td>25</td>
+<td>0.4</td>
+</tr>
+<tr class="row-item">
+<td id="i" class="name">Ice, Crushed</td>
+<td>35-45</td>
+<td>0.56-0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ilmenite</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Inhibitor Compound</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Insecticide</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Iodized Mixture</td>
+<td>18</td>
+<td>0.29</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ional</td>
+<td>49</td>
+<td>0.78</td>
+</tr>
+<tr class="row-item">
+<td class="name">Irganox</td>
+<td>17</td>
+<td>0.27</td>
+</tr>
+<tr class="row-item">
+<td class="name">Iron Chromite</td>
+<td>114</td>
+<td>1.83</td>
+</tr>
+<tr class="row-item">
+<td class="name">Iron Filings</td>
+<td>180</td>
+<td>2.88</td>
+</tr>
+<tr class="row-item">
+<td class="name">Iron Ore</td>
+<td>162</td>
+<td>2.59</td>
+</tr>
+<tr class="row-item">
+<td class="name">Iron Oxide</td>
+<td>80</td>
+<td>1.28</td>
+</tr>
+<tr class="row-item">
+<td class="name">Iron Oxide, Black</td>
+<td>161</td>
+<td>2.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Iron Oxide, Red</td>
+<td>69</td>
+<td>1.11</td>
+</tr>
+<tr class="row-item">
+<td class="name">Iron Powder</td>
+<td>175</td>
+<td>2.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Iron Sulfate</td>
+<td>80</td>
+<td>1.28</td>
+</tr>
+<tr class="row-item">
+<td class="name">Isophthalic Acid</td>
+<td>46</td>
+<td>0.74</td>
+</tr>
+<tr class="row-item">
+<td id="j" class="name">Jebfil 88</td>
+<td>127.2</td>
+<td>2.04</td>
+</tr>
+<tr class="row-item">
+<td id="k" class="name">Kafir and Milo, Grain Sorghum</td>
+<td>40-46</td>
+<td>0.64-.074</td>
+</tr>
+<tr class="row-item">
+<td class="name">Kaolin</td>
+<td>49</td>
+<td>0.78</td>
+</tr>
+<tr class="row-item">
+<td class="name">Kaolin Clay</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Karaya Gum</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ken-L-Biskit</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ken-L-Meal</td>
+<td>33</td>
+<td>0.53</td>
+</tr>
+<tr class="row-item">
+<td class="name">Kiln Feed Mix</td>
+<td>73</td>
+<td>1.17</td>
+</tr>
+<tr class="row-item">
+<td class="name">Kix Mixture</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Kohinor</td>
+<td>49</td>
+<td>0.78</td>
+</tr>
+<tr class="row-item">
+<td class="name">Kralex Powder</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td id="l" class="name">Lamisay Flour</td>
+<td>34</td>
+<td>0.54</td>
+</tr>
+<tr class="row-item">
+<td class="name">Lampblack</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Latex Powder</td>
+<td>89</td>
+<td>1.43</td>
+</tr>
+<tr class="row-item">
+<td class="name">Latikia</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Lead Arsenate</td>
+<td>90</td>
+<td>1.44</td>
+</tr>
+<tr class="row-item">
+<td class="name">Lead Carbonate</td>
+<td>81</td>
+<td>1.3</td>
+</tr>
+<tr class="row-item">
+<td class="name">Lead Chloride Crystals</td>
+<td>72</td>
+<td>1.15</td>
+</tr>
+<tr class="row-item">
+<td class="name">Lead Oxide</td>
+<td>63</td>
+<td>1.01</td>
+</tr>
+<tr class="row-item">
+<td class="name">Lead Stabilizer</td>
+<td>43</td>
+<td>0.69</td>
+</tr>
+<tr class="row-item">
+<td class="name">Licorice Powder</td>
+<td>28</td>
+<td>0.45</td>
+</tr>
+<tr class="row-item">
+<td class="name">Ligno Sulfinate</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Lignone</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Lignosol</td>
+<td>24</td>
+<td>0.38</td>
+</tr>
+<tr class="row-item">
+<td class="name">Lime</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Lime, Colloidal</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Lime, Dolomitic</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Lime, Granules</td>
+<td>80</td>
+<td>1.28</td>
+</tr>
+<tr class="row-item">
+<td class="name">Lime, Hydrated</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Lime, Pebble</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Lime, Pulverized Quick</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Lime, Quick</td>
+<td>55</td>
+<td>0.88</td>
+</tr>
+<tr class="row-item">
+<td class="name">Lime, Rock Dust</td>
+<td>82</td>
+<td>1.31</td>
+</tr>
+<tr class="row-item">
+<td class="name">Limestone</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Limestone Dust</td>
+<td>69</td>
+<td>1.11</td>
+</tr>
+<tr class="row-item">
+<td class="name">Limestone Filler</td>
+<td>63</td>
+<td>1.01</td>
+</tr>
+<tr class="row-item">
+<td class="name">Limestone Flour</td>
+<td>69</td>
+<td>1.11</td>
+</tr>
+<tr class="row-item">
+<td class="name">Limestone, Ground</td>
+<td>59</td>
+<td>0.95</td>
+</tr>
+<tr class="row-item">
+<td class="name">Limestone, Pulverized</td>
+<td>68</td>
+<td>1.09</td>
+</tr>
+<tr class="row-item">
+<td class="name">Linseed Meal</td>
+<td>23-28</td>
+<td>0.37-0.45</td>
+</tr>
+<tr class="row-item">
+<td class="name">Litharge</td>
+<td>182</td>
+<td>2.92</td>
+</tr>
+<tr class="row-item">
+<td id="m" class="name">Magnesia</td>
+<td>78</td>
+<td>1.25</td>
+</tr>
+<tr class="row-item">
+<td class="name">Magnesite</td>
+<td>27</td>
+<td>0.43</td>
+</tr>
+<tr class="row-item">
+<td class="name">Magnesite Light</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Magnesium Carbonate</td>
+<td>12</td>
+<td>0.19</td>
+</tr>
+<tr class="row-item">
+<td class="name">Magnesium Chips</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Magnesium Chloride</td>
+<td>12</td>
+<td>0.19</td>
+</tr>
+<tr class="row-item">
+<td class="name">Magnesium Hydroxide</td>
+<td>39</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Magnesium Hydroxide</td>
+<td>34.4</td>
+<td>0.55</td>
+</tr>
+<tr class="row-item">
+<td class="name">Magnesium Oxide</td>
+<td>65</td>
+<td>1.04</td>
+</tr>
+<tr class="row-item">
+<td class="name">Magnesium Silicate</td>
+<td>58</td>
+<td>0.93</td>
+</tr>
+<tr class="row-item">
+<td class="name">Magnesium Stearate</td>
+<td>21</td>
+<td>0.34</td>
+</tr>
+<tr class="row-item">
+<td class="name">Magnesium Sulfate</td>
+<td>52</td>
+<td>0.83</td>
+</tr>
+<tr class="row-item">
+<td class="name">Magnetite</td>
+<td>165</td>
+<td>2.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Malt, Powder</td>
+<td>41</td>
+<td>0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Malt, Sprouts</td>
+<td>13-16</td>
+<td>0.21-0.26</td>
+</tr>
+<tr class="row-item">
+<td class="name">Malted Barley Flour</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Malted Wheat Flour</td>
+<td>41</td>
+<td>0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Maltrin Maltodestrin</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Manganese Dioxide</td>
+<td>70</td>
+<td>1.12</td>
+</tr>
+<tr class="row-item">
+<td class="name">Manganese Ore</td>
+<td>110</td>
+<td>1.76</td>
+</tr>
+<tr class="row-item">
+<td class="name">Mannitol</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Manzate</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Marasperse</td>
+<td>25</td>
+<td>0.4</td>
+</tr>
+<tr class="row-item">
+<td class="name">Marble, Granules</td>
+<td>80</td>
+<td>1.28</td>
+</tr>
+<tr class="row-item">
+<td class="name">Marble, Ground</td>
+<td>93</td>
+<td>1.49</td>
+</tr>
+<tr class="row-item">
+<td class="name">Meat Meal</td>
+<td>37</td>
+<td>0.59</td>
+</tr>
+<tr class="row-item">
+<td class="name">Meat Tenderizer</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Melamine</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Melamine Powder</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Metallic Baghouse Dust</td>
+<td>70</td>
+<td>1.12</td>
+</tr>
+<tr class="row-item">
+<td class="name">Metallic Flakes</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Metallic Powder</td>
+<td>165</td>
+<td>2.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Metasol</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Methocel</td>
+<td>26</td>
+<td>0.42</td>
+</tr>
+<tr class="row-item">
+<td class="name">Mica Flakes</td>
+<td>10</td>
+<td>0.16</td>
+</tr>
+<tr class="row-item">
+<td class="name">Mica Powder</td>
+<td>41</td>
+<td>0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Mica Soapstone</td>
+<td>47</td>
+<td>0.75</td>
+</tr>
+<tr class="row-item">
+<td class="name">Microcel</td>
+<td>28</td>
+<td>0.45</td>
+</tr>
+<tr class="row-item">
+<td class="name">Milk, Non-Fat Dry</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Milk, Powdered</td>
+<td>13</td>
+<td>0.21</td>
+</tr>
+<tr class="row-item">
+<td class="name">Milk, Powdered, Whole</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Milk, Whole</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Millet</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Milltown</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Milo, Ground</td>
+<td>32-36</td>
+<td>0.51-0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Mineral Core Dust</td>
+<td>15</td>
+<td>0.24</td>
+</tr>
+<tr class="row-item">
+<td class="name">Mineral Oxide</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Mira-Flo</td>
+<td>10</td>
+<td>0.16</td>
+</tr>
+<tr class="row-item">
+<td class="name">Molasses Feed</td>
+<td>20-25</td>
+<td>0.32-0.40</td>
+</tr>
+<tr class="row-item">
+<td class="name">Mold Inhibitor</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Molding Compound</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Molding Powder</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Molding Sand</td>
+<td>75</td>
+<td>1.2</td>
+</tr>
+<tr class="row-item">
+<td class="name">Molybdenum Disulfide</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Molybdenum Oxide</td>
+<td>98</td>
+<td>1.57</td>
+</tr>
+<tr class="row-item">
+<td class="name">Molybdic Oxide</td>
+<td>16</td>
+<td>0.26</td>
+</tr>
+<tr class="row-item">
+<td class="name">Monosodium Phosphate</td>
+<td>55</td>
+<td>0.88</td>
+</tr>
+<tr class="row-item">
+<td class="name">Multi Grain Cheerios Cereal</td>
+<td>7.2</td>
+<td>0.12</td>
+</tr>
+<tr class="row-item">
+<td class="name">Multiclone Dust</td>
+<td>75</td>
+<td>1.2</td>
+</tr>
+<tr class="row-item">
+<td class="name">Mushroom Particles, Dry</td>
+<td>51</td>
+<td>0.82</td>
+</tr>
+<tr class="row-item">
+<td class="name">Mustard Compound</td>
+<td>21</td>
+<td>0.34</td>
+</tr>
+<tr class="row-item">
+<td class="name">Mustard Spice A</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Mustard Spice B</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Mustard, Powder</td>
+<td>16</td>
+<td>0.26</td>
+</tr>
+<tr class="row-item">
+<td class="name">Myverol</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td id="n" class="name">Naphthalene Flakes</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Natrosol</td>
+<td>28</td>
+<td>0.45</td>
+</tr>
+<tr class="row-item">
+<td class="name">Neutral Granules</td>
+<td>24</td>
+<td>0.38</td>
+</tr>
+<tr class="row-item">
+<td class="name">News Print &amp; Sawdust</td>
+<td>2</td>
+<td>0.03</td>
+</tr>
+<tr class="row-item">
+<td class="name">Nickel</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Nickel Ore Dust</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Nickel Oxide</td>
+<td>28</td>
+<td>0.45</td>
+</tr>
+<tr class="row-item">
+<td class="name">Nickel Powder</td>
+<td>75</td>
+<td>1.2</td>
+</tr>
+<tr class="row-item">
+<td class="name">Nitrate of Soda</td>
+<td>85</td>
+<td>1.36</td>
+</tr>
+<tr class="row-item">
+<td class="name">Nitro-Carbo-Nitrate</td>
+<td>66</td>
+<td>1.06</td>
+</tr>
+<tr class="row-item">
+<td class="name">Nodule Dust, Coke</td>
+<td>53</td>
+<td>0.85</td>
+</tr>
+<tr class="row-item">
+<td class="name">Nuchar</td>
+<td>12</td>
+<td>0.19</td>
+</tr>
+<tr class="row-item">
+<td class="name">Nuts, Almonds</td>
+<td>29</td>
+<td>0.46</td>
+</tr>
+<tr class="row-item">
+<td class="name">Nuts, Cashews</td>
+<td>31</td>
+<td>0.5</td>
+</tr>
+<tr class="row-item">
+<td class="name">Nuts, Peanuts, Shelled</td>
+<td>43</td>
+<td>0.69</td>
+</tr>
+<tr class="row-item">
+<td class="name">Nuts, Peanuts, Unshelled</td>
+<td>17-24</td>
+<td>0.27-0.38</td>
+</tr>
+<tr class="row-item">
+<td class="name">Nylon Fibers</td>
+<td>10</td>
+<td>0.16</td>
+</tr>
+<tr class="row-item">
+<td class="name">Nylon Flakes</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Nylon Pellets, 1/8"</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Nylon Powder</td>
+<td>39</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td id="o" class="name">Oat Flour</td>
+<td>33</td>
+<td>0.53</td>
+</tr>
+<tr class="row-item">
+<td class="name">Oat Groats, Whole</td>
+<td>46.5</td>
+<td>0.74</td>
+</tr>
+<tr class="row-item">
+<td class="name">Oat Hulls</td>
+<td>8</td>
+<td>0.13</td>
+</tr>
+<tr class="row-item">
+<td class="name">Oat Middlings</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Oats</td>
+<td>27</td>
+<td>0.43</td>
+</tr>
+<tr class="row-item">
+<td class="name">Oats, Ground</td>
+<td>29</td>
+<td>0.46</td>
+</tr>
+<tr class="row-item">
+<td class="name">Oats, Rolled</td>
+<td>19-24</td>
+<td>0.30-0.38</td>
+</tr>
+<tr class="row-item">
+<td class="name">Onion Powder</td>
+<td>25</td>
+<td>0.4</td>
+</tr>
+<tr class="row-item">
+<td class="name">Onion, Chopped</td>
+<td>14</td>
+<td>0.22</td>
+</tr>
+<tr class="row-item">
+<td class="name">Onion, Minced</td>
+<td>8</td>
+<td>0.13</td>
+</tr>
+<tr class="row-item">
+<td class="name">Opalon Pellets, 1/4"</td>
+<td>33</td>
+<td>0.53</td>
+</tr>
+<tr class="row-item">
+<td class="name">Opalon PVC</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Opti White Pigment</td>
+<td>47</td>
+<td>0.75</td>
+</tr>
+<tr class="row-item">
+<td class="name">Orlon, Polymer, Powder</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Orzan</td>
+<td>29</td>
+<td>0.46</td>
+</tr>
+<tr class="row-item">
+<td class="name">Oxalic Acid</td>
+<td>52</td>
+<td>0.83</td>
+</tr>
+<tr class="row-item">
+<td class="name">Oxpyridmidine</td>
+<td>23</td>
+<td>0.37</td>
+</tr>
+<tr class="row-item">
+<td class="name">Oxychloride</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Oyster Shell, Ground, &lt;0.5"</td>
+<td>53</td>
+<td>0.85</td>
+</tr>
+<tr class="row-item">
+<td id="p" class="name">Paint Float 600</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Paper Dust</td>
+<td>5</td>
+<td>0.08</td>
+</tr>
+<tr class="row-item">
+<td class="name">Paper Sequins</td>
+<td>15</td>
+<td>0.24</td>
+</tr>
+<tr class="row-item">
+<td class="name">Paraformaldehyde</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Parsley Flakes</td>
+<td>3</td>
+<td>0.05</td>
+</tr>
+<tr class="row-item">
+<td class="name">Parsley Salt Blend</td>
+<td>34.4</td>
+<td>0.55</td>
+</tr>
+<tr class="row-item">
+<td class="name">Parzate</td>
+<td>19</td>
+<td>0.3</td>
+</tr>
+<tr class="row-item">
+<td class="name">Paste Resin</td>
+<td>31</td>
+<td>0.5</td>
+</tr>
+<tr class="row-item">
+<td class="name">Peanut Brittle</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Peanut Meal</td>
+<td>28</td>
+<td>0.45</td>
+</tr>
+<tr class="row-item">
+<td class="name">Peanuts, Shelled</td>
+<td>43</td>
+<td>0.69</td>
+</tr>
+<tr class="row-item">
+<td class="name">Peanuts, Unshelled</td>
+<td>17-24</td>
+<td>0.27-0.38</td>
+</tr>
+<tr class="row-item">
+<td class="name">Peat Moss</td>
+<td>10</td>
+<td>0.16</td>
+</tr>
+<tr class="row-item">
+<td class="name">Penford Gum Starch</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Penicillin Compound</td>
+<td>22</td>
+<td>0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Penne Pasta</td>
+<td>28</td>
+<td>0.45</td>
+</tr>
+<tr class="row-item">
+<td class="name">Pentaerythritol</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Pentarythritol</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Peppermint</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Peppermint Powder</td>
+<td>34</td>
+<td>0.54</td>
+</tr>
+<tr class="row-item">
+<td class="name">Peppers, Chopped</td>
+<td>21</td>
+<td>0.34</td>
+</tr>
+<tr class="row-item">
+<td class="name">Peppers, Whole</td>
+<td>16</td>
+<td>0.26</td>
+</tr>
+<tr class="row-item">
+<td class="name">Perlite</td>
+<td>15</td>
+<td>0.24</td>
+</tr>
+<tr class="row-item">
+<td class="name">Perlite Filter Aid</td>
+<td>8</td>
+<td>0.13</td>
+</tr>
+<tr class="row-item">
+<td class="name">Perlite Ore</td>
+<td>65</td>
+<td>1.04</td>
+</tr>
+<tr class="row-item">
+<td class="name">Petro-Ag, Granules</td>
+<td>43</td>
+<td>0.69</td>
+</tr>
+<tr class="row-item">
+<td class="name">Petro-Ag, Powder</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Petroeum Coke Dust</td>
+<td>25</td>
+<td>0.4</td>
+</tr>
+<tr class="row-item">
+<td class="name">Petroleum Coke</td>
+<td>55</td>
+<td>0.88</td>
+</tr>
+<tr class="row-item">
+<td class="name">Pharmaceutical Lubricant</td>
+<td>9</td>
+<td>0.14</td>
+</tr>
+<tr class="row-item">
+<td class="name">Pharmaceutical Mix</td>
+<td>31</td>
+<td>0.5</td>
+</tr>
+<tr class="row-item">
+<td class="name">Phenobac</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Phenofil</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Phenol Formaldehyde</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Phenolic Powder</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Phosphate</td>
+<td>80</td>
+<td>1.28</td>
+</tr>
+<tr class="row-item">
+<td class="name">Phosphate Rock Dust</td>
+<td>90</td>
+<td>1.44</td>
+</tr>
+<tr class="row-item">
+<td class="name">Phosphate Rock Powder</td>
+<td>90</td>
+<td>1.44</td>
+</tr>
+<tr class="row-item">
+<td class="name">Phosphate Rock, Crushed</td>
+<td>69</td>
+<td>1.11</td>
+</tr>
+<tr class="row-item">
+<td class="name">Phosphate Rock, Ground</td>
+<td>70</td>
+<td>1.12</td>
+</tr>
+<tr class="row-item">
+<td class="name">Phosphate Tri-Calcium</td>
+<td>68</td>
+<td>1.09</td>
+</tr>
+<tr class="row-item">
+<td class="name">Phosphorous Penta Sulfide</td>
+<td>75</td>
+<td>1.2</td>
+</tr>
+<tr class="row-item">
+<td class="name">Phosphorous Pentoxide</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Phthalic Anhydride</td>
+<td>52</td>
+<td>0.83</td>
+</tr>
+<tr class="row-item">
+<td class="name">Pie Crust Mix</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Pigment</td>
+<td>9</td>
+<td>0.14</td>
+</tr>
+<tr class="row-item">
+<td class="name">Pipette Rigate</td>
+<td>24.8</td>
+<td>0.4</td>
+</tr>
+<tr class="row-item">
+<td class="name">Pitch</td>
+<td>37</td>
+<td>0.59</td>
+</tr>
+<tr class="row-item">
+<td class="name">Plaster of Paris</td>
+<td>49</td>
+<td>0.78</td>
+</tr>
+<tr class="row-item">
+<td class="name">Plastic Beads</td>
+<td>46</td>
+<td>0.74</td>
+</tr>
+<tr class="row-item">
+<td class="name">Plastic Cubes</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Plastic Flakes</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Plastic Flakes 3/8"</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Plastic Flakes, Large</td>
+<td>19</td>
+<td>0.3</td>
+</tr>
+<tr class="row-item">
+<td class="name">Plastic Flakes, Small</td>
+<td>34</td>
+<td>0.54</td>
+</tr>
+<tr class="row-item">
+<td class="name">Plastic Material Coloring</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Plastic Pellets</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Plastic Powder</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Plastic Powder A</td>
+<td>41</td>
+<td>0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Plastic Powder B</td>
+<td>26</td>
+<td>0.42</td>
+</tr>
+<tr class="row-item">
+<td class="name">Plastic Resin</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Plastic Scrap, Flakes, 7/8"</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Plastic Spheres, 1/16"</td>
+<td>43</td>
+<td>0.69</td>
+</tr>
+<tr class="row-item">
+<td class="name">Plastic, Chopped</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polycarbonate Resin</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyester Adhesive Powder</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyester Flakes</td>
+<td>27</td>
+<td>0.43</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyester Resin</td>
+<td>34</td>
+<td>0.54</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyester, Cubes</td>
+<td>47</td>
+<td>0.75</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyester, Film Fragments</td>
+<td>6</td>
+<td>0.1</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyethylene</td>
+<td>43</td>
+<td>0.69</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyethylene Beads</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyethylene Film</td>
+<td>8</td>
+<td>0.13</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyethylene Flakes</td>
+<td>6</td>
+<td>0.1</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyethylene Granules</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyethylene Pellets</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyethylene Pellets, 1/8"</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyethylene Powder</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyhedral Alcohol</td>
+<td>37</td>
+<td>0.59</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polymer</td>
+<td>20</td>
+<td>0.32</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polymer Reagent</td>
+<td>39</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polymer Resin</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polymide Resin</td>
+<td>31</td>
+<td>0.5</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyolefin Pellets, 3/32"</td>
+<td>21</td>
+<td>0.34</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polypropylene</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polypropylene Flakes</td>
+<td>22</td>
+<td>0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polypropylene Pellets, 1/8"</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polypropylene Powder</td>
+<td>33</td>
+<td>0.53</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polystyrene Beads, 1/16"</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polystyrene Pellets</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polystyrene Pellets, 1/8"</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polystyrene Powder</td>
+<td>33</td>
+<td>0.53</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polystyrene Scrap</td>
+<td>31</td>
+<td>0.5</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyurethane Granules</td>
+<td>22</td>
+<td>0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyurethane, Pellets, 1/8"</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyvinyl Acetate</td>
+<td>39</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyvinyl Alcohol</td>
+<td>39</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyvinyl Alcohol (PVA)</td>
+<td>37.6</td>
+<td>0.6</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyvinyl Chloride</td>
+<td>41</td>
+<td>0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyvinyl Chloride Pellets 1/8"</td>
+<td>39</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Polyvinyl Chloride, Regrind</td>
+<td>18</td>
+<td>0.29</td>
+</tr>
+<tr class="row-item">
+<td class="name">Popcorn Seasoning</td>
+<td>66.4</td>
+<td>1.06</td>
+</tr>
+<tr class="row-item">
+<td class="name">Pork Spice</td>
+<td>72</td>
+<td>1.15</td>
+</tr>
+<tr class="row-item">
+<td class="name">Potassium Bromide, 5% Moist.</td>
+<td>114</td>
+<td>1.83</td>
+</tr>
+<tr class="row-item">
+<td class="name">Potassium Carbonate, Potash</td>
+<td>74</td>
+<td>1.19</td>
+</tr>
+<tr class="row-item">
+<td class="name">Potassium Chloride</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Potassium Iodate</td>
+<td>129</td>
+<td>2.07</td>
+</tr>
+<tr class="row-item">
+<td class="name">Potassium Muriate</td>
+<td>68</td>
+<td>1.09</td>
+</tr>
+<tr class="row-item">
+<td class="name">Potassium Sulfate</td>
+<td>90</td>
+<td>1.44</td>
+</tr>
+<tr class="row-item">
+<td class="name">Potato Flakes</td>
+<td>13</td>
+<td>0.21</td>
+</tr>
+<tr class="row-item">
+<td class="name">Potato Pancake Mix</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Potato Powder</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Potting Soil</td>
+<td>16</td>
+<td>0.26</td>
+</tr>
+<tr class="row-item">
+<td class="name">Poultry Meal</td>
+<td>34-39</td>
+<td>0.54-0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Powder Sugar</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Precipitator Dust</td>
+<td>46</td>
+<td>0.74</td>
+</tr>
+<tr class="row-item">
+<td class="name">Pre-Mix</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Propellant, Solid, Dry</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Protein Blend</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Protein Supplement</td>
+<td>34</td>
+<td>0.54</td>
+</tr>
+<tr class="row-item">
+<td class="name">Prussian Blue</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Pumice Powder</td>
+<td>39</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Purezaust Pellets</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">PVC Chips</td>
+<td>54</td>
+<td>0.86</td>
+</tr>
+<tr class="row-item">
+<td class="name">PVC Resin</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Pynte Cinders</td>
+<td>124</td>
+<td>1.99</td>
+</tr>
+<tr class="row-item">
+<td id="q" class="name">Q-Cel</td>
+<td>12</td>
+<td>0.19</td>
+</tr>
+<tr class="row-item">
+<td class="name">Quartz, 0.5" Screenings</td>
+<td>80-90</td>
+<td>1.28-1.44</td>
+</tr>
+<tr class="row-item">
+<td class="name">Quartz, 1.5-3" Lumps</td>
+<td>85-95</td>
+<td>1.36-1.52</td>
+</tr>
+<tr class="row-item">
+<td class="name">Qvibe 90 RF</td>
+<td>120</td>
+<td>1.92</td>
+</tr>
+<tr class="row-item">
+<td id="r" class="name">Rags, Chopped</td>
+<td>8</td>
+<td>0.13</td>
+</tr>
+<tr class="row-item">
+<td class="name">Raisins, Moist</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rapeseed</td>
+<td>48.3</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Records, Ground Plastics</td>
+<td>41</td>
+<td>0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Red Color Concentrate</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Red Lead</td>
+<td>165</td>
+<td>2.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Red Oxide Pigment</td>
+<td>72</td>
+<td>1.15</td>
+</tr>
+<tr class="row-item">
+<td class="name">Refractory Mix</td>
+<td>96</td>
+<td>1.54</td>
+</tr>
+<tr class="row-item">
+<td class="name">Regrind - Polypropylene Ticona</td>
+<td>28</td>
+<td>0.44</td>
+</tr>
+<tr class="row-item">
+<td class="name">Resimene</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Resin Binder</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Resin, Synthetic H.D.</td>
+<td>34</td>
+<td>0.54</td>
+</tr>
+<tr class="row-item">
+<td class="name">Resin-Luron</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Resinous Polymer</td>
+<td>22</td>
+<td>0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rice</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rice</td>
+<td>52</td>
+<td>0.83</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rice &amp; Vitamin Mix</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rice Bran</td>
+<td>26</td>
+<td>0.42</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rice, Cream &amp; W/Vitamins</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rice, Puffed</td>
+<td>6</td>
+<td>0.1</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rock Salt</td>
+<td>68</td>
+<td>1.09</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rolaids® Mix Powder</td>
+<td>65</td>
+<td>1.04</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rooibos Dried Tea</td>
+<td>20</td>
+<td>0.32</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rouge Compound</td>
+<td>58</td>
+<td>0.93</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rubber Composition Powder</td>
+<td>34</td>
+<td>0.54</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rubber Compound</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rubber Crumb</td>
+<td>22</td>
+<td>0.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rubber Foam, Chopped</td>
+<td>3</td>
+<td>0.05</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rubber Granules</td>
+<td>28</td>
+<td>0.45</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rubber Pellets, Irregular</td>
+<td>29</td>
+<td>0.46</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rubber Powder</td>
+<td>33</td>
+<td>0.53</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rutile &amp; Coke</td>
+<td>91</td>
+<td>1.46</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rye Bran</td>
+<td>15-20</td>
+<td>0.24-0.32</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rye Feed</td>
+<td>33</td>
+<td>0.53</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rye Middlings</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rye Shorts</td>
+<td>33.5</td>
+<td>0.54</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rye, Malted</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Rye, Whole</td>
+<td>43-45</td>
+<td>0.69-0.72</td>
+</tr>
+<tr class="row-item">
+<td id="s" class="name">Sage Leaves</td>
+<td>18</td>
+<td>0.29</td>
+</tr>
+<tr class="row-item">
+<td class="name">Salt &amp; Myverol</td>
+<td>54</td>
+<td>0.86</td>
+</tr>
+<tr class="row-item">
+<td class="name">Salt Flakes</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Salt Flour</td>
+<td>64</td>
+<td>1.03</td>
+</tr>
+<tr class="row-item">
+<td class="name">Salt, Clay</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Salt, Fine Table</td>
+<td>86</td>
+<td>1.38</td>
+</tr>
+<tr class="row-item">
+<td class="name">Salt, Granulated</td>
+<td>80</td>
+<td>1.28</td>
+</tr>
+<tr class="row-item">
+<td class="name">Salt, Rock</td>
+<td>68</td>
+<td>1.09</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sand</td>
+<td>99</td>
+<td>1.59</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sand, Dry</td>
+<td>110</td>
+<td>1.76</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sand, Fine</td>
+<td>125</td>
+<td>2</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sand, Foundry</td>
+<td>100</td>
+<td>1.6</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sand, Foundry, Coarse</td>
+<td>96</td>
+<td>1.54</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sand, Foundry, Fine</td>
+<td>104</td>
+<td>1.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sand, Foundry, NJ Silica</td>
+<td>97</td>
+<td>1.55</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sand, Moist</td>
+<td>130</td>
+<td>2.08</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sand, Molding</td>
+<td>78</td>
+<td>1.25</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sand-Kaolin Mix</td>
+<td>53</td>
+<td>0.85</td>
+</tr>
+<tr class="row-item">
+<td class="name">Santonox</td>
+<td>25</td>
+<td>0.4</td>
+</tr>
+<tr class="row-item">
+<td class="name">Saran Powder</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sawdust, Coarse</td>
+<td>25</td>
+<td>0.4</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sawdust, Fine</td>
+<td>18</td>
+<td>0.29</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sawdust, Moist</td>
+<td>28</td>
+<td>0.45</td>
+</tr>
+<tr class="row-item">
+<td class="name">Seal Coal</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Seasoning Blend</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Seasoning, Barbecue</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Selenium Powder</td>
+<td>62</td>
+<td>0.99</td>
+</tr>
+<tr class="row-item">
+<td class="name">Separan Fine</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Shellac Resin</td>
+<td>81</td>
+<td>1.3</td>
+</tr>
+<tr class="row-item">
+<td class="name">Shredded Goodyear Tire Scrap Chucks</td>
+<td>24.8</td>
+<td>0.4</td>
+</tr>
+<tr class="row-item">
+<td class="name">Shredded Goodyear Tire Scrap Fine Rubber Powder</td>
+<td>32.8</td>
+<td>0.53</td>
+</tr>
+<tr class="row-item">
+<td class="name">Silene</td>
+<td>15</td>
+<td>0.24</td>
+</tr>
+<tr class="row-item">
+<td class="name">Silene &amp; Zinc Stearate</td>
+<td>15</td>
+<td>0.24</td>
+</tr>
+<tr class="row-item">
+<td class="name">Silflo Filter Aid</td>
+<td>10</td>
+<td>0.16</td>
+</tr>
+<tr class="row-item">
+<td class="name">Silica Cubes</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Silica Flour</td>
+<td>80</td>
+<td>1.28</td>
+</tr>
+<tr class="row-item">
+<td class="name">Silica Gel</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Silica Gel, Sorbead</td>
+<td>55</td>
+<td>0.88</td>
+</tr>
+<tr class="row-item">
+<td class="name">Silica Sand</td>
+<td>81</td>
+<td>1.3</td>
+</tr>
+<tr class="row-item">
+<td class="name">Silicon Carbide</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Silicon Dioxide</td>
+<td>3</td>
+<td>0.05</td>
+</tr>
+<tr class="row-item">
+<td class="name">Silver Powder</td>
+<td>69</td>
+<td>1.11</td>
+</tr>
+<tr class="row-item">
+<td class="name">Slate, Crushed</td>
+<td>100</td>
+<td>1.6</td>
+</tr>
+<tr class="row-item">
+<td class="name">SMA</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">SMA Pellets</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Soap Flakes</td>
+<td>29</td>
+<td>0.46</td>
+</tr>
+<tr class="row-item">
+<td class="name">Soap Powder</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Soapstone</td>
+<td>47</td>
+<td>0.75</td>
+</tr>
+<tr class="row-item">
+<td class="name">Soda Ash</td>
+<td>54</td>
+<td>0.86</td>
+</tr>
+<tr class="row-item">
+<td class="name">Soda Ash-Iron Chromite</td>
+<td>77</td>
+<td>1.23</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Aluminate</td>
+<td>61</td>
+<td>0.98</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Benzoate</td>
+<td>47</td>
+<td>0.75</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Bicarbonate</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Bisulphate</td>
+<td>90</td>
+<td>1.44</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Borate</td>
+<td>77</td>
+<td>1.23</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Caseinate</td>
+<td>21</td>
+<td>0.34</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Chloride</td>
+<td>80</td>
+<td>1.28</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Chloride</td>
+<td>83</td>
+<td>1.33</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Hydrosulfate</td>
+<td>70</td>
+<td>1.12</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Hydrosulphate</td>
+<td>73</td>
+<td>1.17</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Hydrosulphite</td>
+<td>73</td>
+<td>1.17</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Hydroxide</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Metasilicate</td>
+<td>70</td>
+<td>1.12</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Naptholine Sulph.</td>
+<td>27</td>
+<td>0.43</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Nitrate</td>
+<td>84</td>
+<td>1.35</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Perborate</td>
+<td>53</td>
+<td>0.85</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Phosphate VNX</td>
+<td>80</td>
+<td>1.28</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Phospho Aluminate</td>
+<td>68</td>
+<td>1.09</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Pyrophosphate</td>
+<td>63</td>
+<td>1.01</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Silicate</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Sulfate</td>
+<td>85</td>
+<td>1.36</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Sulfite</td>
+<td>102</td>
+<td>1.63</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Thiosulfate</td>
+<td>55</td>
+<td>0.88</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sodium Tripolyphosphate</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Somagen Sol</td>
+<td>19</td>
+<td>0.3</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sorghum Seed</td>
+<td>32-35</td>
+<td>0.51-0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Soybean Flakes</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Soybean Flour</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Soybean Hulls</td>
+<td>25</td>
+<td>0.4</td>
+</tr>
+<tr class="row-item">
+<td class="name">Soybean Meal</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Soybeans</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Spandex (Polyurethane)</td>
+<td>15.2</td>
+<td>0.24</td>
+</tr>
+<tr class="row-item">
+<td class="name">Spice Blend</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sponge Iron</td>
+<td>150</td>
+<td>2.4</td>
+</tr>
+<tr class="row-item">
+<td class="name">Stabilizer</td>
+<td>71</td>
+<td>1.14</td>
+</tr>
+<tr class="row-item">
+<td class="name">Stabilizer, Food</td>
+<td>54</td>
+<td>0.86</td>
+</tr>
+<tr class="row-item">
+<td class="name">Stabilizer, Plastic</td>
+<td>67</td>
+<td>1.07</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sta-Nut</td>
+<td>53</td>
+<td>0.85</td>
+</tr>
+<tr class="row-item">
+<td class="name">Starch Granules</td>
+<td>46</td>
+<td>0.74</td>
+</tr>
+<tr class="row-item">
+<td class="name">Starch Powder</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Starch, Corn</td>
+<td>43</td>
+<td>0.69</td>
+</tr>
+<tr class="row-item">
+<td class="name">Starch-Industrial Binder</td>
+<td>43</td>
+<td>0.69</td>
+</tr>
+<tr class="row-item">
+<td class="name">Starch-Mile</td>
+<td>39</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Stearate Blend</td>
+<td>41</td>
+<td>0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Stearic Acid Flakes</td>
+<td>32</td>
+<td>0.51</td>
+</tr>
+<tr class="row-item">
+<td class="name">Stearic Acid Powder</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Steel Grit</td>
+<td>225</td>
+<td>3.6</td>
+</tr>
+<tr class="row-item">
+<td class="name">Steel Powder</td>
+<td>150</td>
+<td>2.4</td>
+</tr>
+<tr class="row-item">
+<td class="name">Stonclad UR C-1 1039C</td>
+<td>95.4</td>
+<td>1.53</td>
+</tr>
+<tr class="row-item">
+<td class="name">Stonclad UT C1 929C</td>
+<td>119</td>
+<td>1.91</td>
+</tr>
+<tr class="row-item">
+<td class="name">Stone-Dust</td>
+<td>90</td>
+<td>1.44</td>
+</tr>
+<tr class="row-item">
+<td class="name">Stonfil OP 2 Part C1</td>
+<td>69.9</td>
+<td>1.12</td>
+</tr>
+<tr class="row-item">
+<td class="name">Stonlux SL 2mm Aggregate</td>
+<td>100</td>
+<td>1.6</td>
+</tr>
+<tr class="row-item">
+<td class="name">Stonshield Aggregate Part C 360C</td>
+<td>81</td>
+<td>1.3</td>
+</tr>
+<tr class="row-item">
+<td class="name">Styrene Beads</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sucrose</td>
+<td>53</td>
+<td>0.85</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sucrose Octoacetate</td>
+<td>33</td>
+<td>0.53</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sugar Ind.</td>
+<td>46</td>
+<td>0.74</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sugar, Beet</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sugar, Dextrose</td>
+<td>39</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sugar, Granulated</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sugar, Powdered</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sulphur</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sulphur, Granules</td>
+<td>70</td>
+<td>1.12</td>
+</tr>
+<tr class="row-item">
+<td class="name">Sunflower Seed</td>
+<td>38.5</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Super Phosphate</td>
+<td>70</td>
+<td>1.12</td>
+</tr>
+<tr class="row-item">
+<td class="name">Susta</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td id="t" class="name">Talc</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Talcum Powder</td>
+<td>55</td>
+<td>0.88</td>
+</tr>
+<tr class="row-item">
+<td class="name">Tantalum Powder</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Tea</td>
+<td>27</td>
+<td>0.43</td>
+</tr>
+<tr class="row-item">
+<td class="name">Tea Flakes</td>
+<td>24</td>
+<td>0.38</td>
+</tr>
+<tr class="row-item">
+<td class="name">Tea Powder</td>
+<td>27</td>
+<td>0.43</td>
+</tr>
+<tr class="row-item">
+<td class="name">Teflon Fiber</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Teflon Granules</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Teflon Pellets, 1/8"</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Teflon Powder</td>
+<td>29</td>
+<td>0.46</td>
+</tr>
+<tr class="row-item">
+<td class="name">Tekseal</td>
+<td>56</td>
+<td>0.88</td>
+</tr>
+<tr class="row-item">
+<td class="name">Terepthalic Acid</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Thiamine</td>
+<td>47</td>
+<td>0.75</td>
+</tr>
+<tr class="row-item">
+<td class="name">Thionex</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Thorium Oxide</td>
+<td>62</td>
+<td>0.99</td>
+</tr>
+<tr class="row-item">
+<td class="name">Tide</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Titanium Dioxide</td>
+<td>48</td>
+<td>0.77</td>
+</tr>
+<tr class="row-item">
+<td class="name">Titanium Sponge</td>
+<td>60</td>
+<td>0.96</td>
+</tr>
+<tr class="row-item">
+<td class="name">Tobacco Leaves</td>
+<td>6</td>
+<td>0.1</td>
+</tr>
+<tr class="row-item">
+<td class="name">Tobacco Powder</td>
+<td>28</td>
+<td>0.45</td>
+</tr>
+<tr class="row-item">
+<td class="name">Tobacco, Cigarette</td>
+<td>12</td>
+<td>0.19</td>
+</tr>
+<tr class="row-item">
+<td class="name">Trap Rock</td>
+<td>91</td>
+<td>1.46</td>
+</tr>
+<tr class="row-item">
+<td class="name">Tricalcium Phosphate</td>
+<td>85</td>
+<td>1.36</td>
+</tr>
+<tr class="row-item">
+<td class="name">Trichlorocyanuric Acid</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Triplact</td>
+<td>12</td>
+<td>0.19</td>
+</tr>
+<tr class="row-item">
+<td class="name">Tripolyphosphate</td>
+<td>80</td>
+<td>1.28</td>
+</tr>
+<tr class="row-item">
+<td class="name">Trisodium Phosphate</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Tumaric Acid, Fines</td>
+<td>51</td>
+<td>0.82</td>
+</tr>
+<tr class="row-item">
+<td class="name">Tungsten Carbide</td>
+<td>250</td>
+<td>4</td>
+</tr>
+<tr class="row-item">
+<td id="u" class="name">Uranium Compound</td>
+<td>191</td>
+<td>3.06</td>
+</tr>
+<tr class="row-item">
+<td class="name">Uranium Granules</td>
+<td>184</td>
+<td>2.95</td>
+</tr>
+<tr class="row-item">
+<td class="name">Uranium Oxide</td>
+<td>108</td>
+<td>1.73</td>
+</tr>
+<tr class="row-item">
+<td class="name">Urea</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Urea Formaldehyde</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Urea Molding Powder</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Urea Powder</td>
+<td>39</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Urea Prills</td>
+<td>45</td>
+<td>0.72</td>
+</tr>
+<tr class="row-item">
+<td class="name">Urethane Foam</td>
+<td>18</td>
+<td>0.29</td>
+</tr>
+<tr class="row-item">
+<td id="v" class="name">Vanadium Catalyst</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Vegetable Oil Powder</td>
+<td>34</td>
+<td>0.54</td>
+</tr>
+<tr class="row-item">
+<td class="name">Vermiculite</td>
+<td>62</td>
+<td>0.99</td>
+</tr>
+<tr class="row-item">
+<td class="name">Vicron</td>
+<td>34</td>
+<td>0.54</td>
+</tr>
+<tr class="row-item">
+<td class="name">Vicron, Limestone</td>
+<td>62</td>
+<td>0.99</td>
+</tr>
+<tr class="row-item">
+<td class="name">Vicrum</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Vinyl Acetate</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Vinyl Blend</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Vinyl Chips, Irregular</td>
+<td>20</td>
+<td>0.32</td>
+</tr>
+<tr class="row-item">
+<td class="name">Vinyl Compound</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Vinyl Copolymer Resin</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Vinyl Pellets, 1/8"</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Vinyl Powder</td>
+<td>34</td>
+<td>0.54</td>
+</tr>
+<tr class="row-item">
+<td class="name">Vinyl Resin</td>
+<td>36</td>
+<td>0.58</td>
+</tr>
+<tr class="row-item">
+<td class="name">Vitamin Additive</td>
+<td>41</td>
+<td>0.66</td>
+</tr>
+<tr class="row-item">
+<td class="name">Vitamin Compound</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Vitamin Enrichment</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">Vitamin Mix</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Vitamin Powder</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Viton Rubber Crumb</td>
+<td>33</td>
+<td>0.53</td>
+</tr>
+<tr class="row-item">
+<td id="w" class="name">Waffle Mix</td>
+<td>42</td>
+<td>0.67</td>
+</tr>
+<tr class="row-item">
+<td class="name">Water Softener Compound</td>
+<td>39</td>
+<td>0.62</td>
+</tr>
+<tr class="row-item">
+<td class="name">Wax</td>
+<td>27</td>
+<td>0.43</td>
+</tr>
+<tr class="row-item">
+<td class="name">Wax Flakes</td>
+<td>50</td>
+<td>0.8</td>
+</tr>
+<tr class="row-item">
+<td class="name">Wax Powder</td>
+<td>38</td>
+<td>0.61</td>
+</tr>
+<tr class="row-item">
+<td class="name">Wheat Bran</td>
+<td>11-16</td>
+<td>0.18-0.26</td>
+</tr>
+<tr class="row-item">
+<td class="name">Wheat Flour</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Wheat Gluten</td>
+<td>43</td>
+<td>0.69</td>
+</tr>
+<tr class="row-item">
+<td class="name">Wheat Hulls</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Wheat Middlings</td>
+<td>15</td>
+<td>0.24</td>
+</tr>
+<tr class="row-item">
+<td class="name">Wheat, Cracked</td>
+<td>35</td>
+<td>0.564</td>
+</tr>
+<tr class="row-item">
+<td class="name">Wheat, Cut</td>
+<td>46</td>
+<td>0.74</td>
+</tr>
+<tr class="row-item">
+<td class="name">Wheat, Shaved</td>
+<td>34</td>
+<td>0.54</td>
+</tr>
+<tr class="row-item">
+<td class="name">Wheat, Whole</td>
+<td>45-52</td>
+<td>0.72-0.83</td>
+</tr>
+<tr class="row-item">
+<td class="name">Whey</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">White Lead</td>
+<td>72-100</td>
+<td>1.15-1.60</td>
+</tr>
+<tr class="row-item">
+<td class="name">White Powder</td>
+<td>40</td>
+<td>0.64</td>
+</tr>
+<tr class="row-item">
+<td class="name">White Whey Powder</td>
+<td>20</td>
+<td>0.32</td>
+</tr>
+<tr class="row-item">
+<td class="name">Wood Cellulose</td>
+<td>18</td>
+<td>0.29</td>
+</tr>
+<tr class="row-item">
+<td class="name">Wood Chips</td>
+<td>18</td>
+<td>0.29</td>
+</tr>
+<tr class="row-item">
+<td class="name">Wood Chips, 2" x 2" x 3"</td>
+<td>30</td>
+<td>0.48</td>
+</tr>
+<tr class="row-item">
+<td class="name">Wood Flour</td>
+<td>20</td>
+<td>0.32</td>
+</tr>
+<tr class="row-item">
+<td class="name">Wood Shavings</td>
+<td>10</td>
+<td>0.16</td>
+</tr>
+<tr class="row-item">
+<td id="y" class="name">Yeast</td>
+<td>59</td>
+<td>0.95</td>
+</tr>
+<tr class="row-item">
+<td id="z" class="name">Zinc Ammonium Chloride</td>
+<td>66</td>
+<td>1.06</td>
+</tr>
+<tr class="row-item">
+<td class="name">Zinc Carbonate</td>
+<td>35</td>
+<td>0.56</td>
+</tr>
+<tr class="row-item">
+<td class="name">Zinc Dust</td>
+<td>200</td>
+<td>3.2</td>
+</tr>
+<tr class="row-item">
+<td class="name">Zinc Hydrosulfite</td>
+<td>44</td>
+<td>0.7</td>
+</tr>
+<tr class="row-item">
+<td class="name">Zinc Oxide</td>
+<td>55</td>
+<td>0.88</td>
+</tr>
+<tr class="row-item">
+<td class="name">Zinc Powder</td>
+<td>210</td>
+<td>3.36</td>
+</tr>
+<tr class="row-item">
+<td class="name">Zinc Skims</td>
+<td>65</td>
+<td>1.04</td>
+</tr>
+<tr class="row-item">
+<td class="name">Zinc Stearate</td>
+<td>14</td>
+<td>0.22</td>
+</tr>
+<tr class="row-item">
+<td class="name">Zinc Sulphate</td>
+<td>83</td>
+<td>1.33</td>
+</tr>
+<tr class="row-item">
+<td class="name">Zirconite</td>
+<td>89</td>
+<td>1.43</td>
+</tr>
+</tbody>
+</table>
